@@ -1,0 +1,13 @@
+a=10
+b=20
+a+=b
+print(a)
+print()
+a*=b
+print(a)
+print()
+a/=b
+print(a)
+print()
+a-=b
+print(a)
